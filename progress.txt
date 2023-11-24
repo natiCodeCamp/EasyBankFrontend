@@ -1,0 +1,1 @@
+-> finsihed most of the navbar design left to add JavaScript event listeners for the mobile view and then can continue to the body part.
