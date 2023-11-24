@@ -4,20 +4,14 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
-## Overview
 
 ### The challenge
 
@@ -34,9 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Easy Bank Landing Page](https://your-live-site-url.com)
+- Live Site URL: [Easy Bank Landing Page](https://naticodecamp.github.io/EasyBankFrontend/)
 
-## My process
 
 ### Built with
 
@@ -49,8 +42,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@natiman52](https://www.frontendmentor.io/profile/natiman52)
 
 
 
